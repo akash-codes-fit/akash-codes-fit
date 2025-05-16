@@ -1,6 +1,7 @@
 <h1 align="center">Hey there <img width="50" src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" alt=""/>, Welcome to my profile</h1>
 <h2 align="center">I'm Akash Kr Gupta</h2>
-<h3 align="center">⚡ A passionate and crazy Full Stack Developer 🚀 who wants to explore every tech stack ⚡</h3>
+<h3 align="center">⚡ I'm a **Certified Data Engineer** passionate about building scalable, cloud-native data pipelines and sharing what I learn through blogs and content.
+ ⚡</h3>
 <img  align="left" alt="Coding" width="500" height="300" src="https://github.com/akashgupta7363/akashgupta7363/blob/main/techstack.gif?raw=true" style="margin-right: 30px" >
 <br/>
 
@@ -10,7 +11,7 @@
   <!--START_SECTION:waka-->
 
 ```text
-JavaScript   16 hrs 21 mins  ██████████████████▒░░░░░░   57.85 %
+SQL          16 hrs 21 mins  ██████████████████▒░░░░░░   57.85 %
 PYTHON       4 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   30.91 %
 CSS          2 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
 HTML         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
@@ -28,33 +29,72 @@ Other        4 mins          ░░░░░░░░░░░░░░░░░
 <div align="left"> <a href="https://twitter.com/akash_gupta_7" target="blank"><img src="https://img.shields.io/twitter/follow/akash_gupta_7?logo=twitter&style=for-the-badge" alt="akash_gupta_7" /></a> </div>
 
 
+---
 
--  I do fullstack and a bit of everything
--  I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-- I manage my entire life on Notion and reading a lot of newsletters and books. 
-- From design to development I love the entire process of building software. I focus on maintainability, performance, and security with all of my projects and try to follow a lot of best practices. 
-- Following best practices early on is the way to go and I'm a huge supporter of it.
-- 🌱 I’m currently learning **Typescript**
-- 🔭 I’m currently working on [Tutor's Den](https://github.com/akashgupta7363/Tutor-s-Den)
+### 🧠 What I Do:
+- Design and build end-to-end data workflows using **Azure**, **Databricks**, **PySpark**, and **Airflow**
+- Work with **ETL/ELT**, **Data Warehousing**, and **Delta Lake** in real-world projects
+- Share insights and hands-on learnings through technical blogs, tweets, and tutorials
+- Document my journey on **Notion**, write on **Medium**, and showcase projects via **GitHub** and my **Portfolio**
 
-- 👯 I’m looking to collaborate on [Tutor's Den](https://github.com/akashgupta7363/Tutor-s-Den)
+---
 
-- 📝 I regularly tweet on [https://twitter.com/Akash_Gupta_7](https://twitter.com/Akash_Gupta_7)
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL  
+- **Cloud:** Microsoft Azure (ADF, Synapse, Data Lake)  
+- **Big Data & Tools:** Apache Spark, PySpark, Azure Databricks, Delta Lake, Kafka
+- **Orchestration:** Apache Airflow  
+- **Version Control:** Git & GitHub  
 
-- 💬 Ask me about **MERN stack and web technologies**
+---
 
-- Reach Out to me! DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL. **akashgupta7363@gmail.com**
+### ✍️ I Write Technical Blogs
+I write detailed, beginner-friendly blogs about real-world data engineering concepts, tools, and lessons learned.  
+📖 Check out my work → [medium.com/@akash.codes.fit](https://medium.com/@akash.codes.fit)
 
-- ⚡ Fun fact  **  I don’t trust people who don’t write SQL queries in uppercase  **
-- ⚡ Develop highly interactive Front end / User Interfaces for your web applications ⚡ 
+---
+
+### 📲 Connect With Me
+- 🔗 LinkedIn → [linkedin.com/in/akash-codes-fit](https://www.linkedin.com/in/akash-codes-fit/)
+- 🐦 Twitter (X) → [x.com/Akash_codes_fit](https://x.com/Akash_codes_fit)
+- 📸 Instagram → [instagram.com/akash.codes.fit](https://www.instagram.com/akash.codes.fit/)
+- 💼 Portfolio → [akash.codes.fit](https://akash.codes.fit)
+- 📬 Email → **akashofficialgupta7@gmail.com**
+
+---
+
+### 📝 I Tweet About:
+- Data engineering tips, learning paths & tools  
+- Certifications & project breakdowns  
+- Fitness (Gym + Calisthenics)  
+- Self-discipline, learning systems & personal growth  
+→ Follow along → [@Akash_codes_fit](https://x.com/Akash_codes_fit)
+
+---
+
+### 🎯 Currently:
+- Publishing blogs on Medium  
+- Prepping for the **Databricks Certified Data Engineer Professional** exam  
+- Building real-world DE projects  
+- Lifting weights, doing calisthenics, and staying consistent
+
+---
+
+ 
+
+
+- 💬 Ask me about **Big Data technologies**
+
+- Reach Out to me! DISCUSS A PROJECT OR JUST WANT TO SAY HI? MY INBOX IS OPEN FOR ALL. **akashofficialgupta7@gmail.com**
+- ⚡ **Fun Fact:** I don’t trust people who write SQL keywords in lowercase 😄 
 - All About living life at its best.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akash_gupta_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash_gupta_7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-kumar-gupta-576337139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-kumar-gupta-576337139/" height="30" width="40" /></a>
-<a href="https://instagram.com/ig_akash_gupta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_akash_gupta_" height="30" width="40" /></a>
+<a href="https://x.com/Akash_codes_fit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash_gupta_7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akash-codes-fit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-kumar-gupta-576337139/" height="30" width="40" /></a>
+<a href="https://instagram.com/akash.codes.fit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_akash_gupta_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
