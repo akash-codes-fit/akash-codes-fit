@@ -1,5 +1,5 @@
 <h1 align="center">Hey there <img width="50" src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" alt=""/>, Welcome to my profile</h1>
-<h2 align="center">I'm Akash Kr Gupta</h2>
+<h2 align="center">I'm Akash </h2>
 <h3 align="center">⚡ I'm a **Certified Data Engineer** passionate about building scalable, cloud-native data pipelines and sharing what I learn through blogs and content.
  ⚡</h3>
 <img  align="left" alt="Coding" width="500" height="300" src="https://github.com/akashgupta7363/akashgupta7363/blob/main/techstack.gif?raw=true" style="margin-right: 30px" >
@@ -26,7 +26,7 @@ JavaScript 4 mins         ░░░░░░░░░░░░░░░░░░
 
 <br />
 
-<div align="left"> <a href="https://twitter.com/akash_gupta_7" target="blank"><img src="https://img.shields.io/twitter/follow/akash_gupta_7?logo=twitter&style=for-the-badge" alt="akash_gupta_7" /></a> </div>
+<div align="left"> <a href="https://twitter.com/akash_codes_fit" target="blank"><img src="https://img.shields.io/twitter/follow/akash_gupta_7?logo=twitter&style=for-the-badge" alt="akash_gupta_7" /></a> </div>
 
 
 ---
